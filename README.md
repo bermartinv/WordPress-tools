@@ -109,7 +109,7 @@
   2. Documentacion https://docs.woocommerce.com/documentation/plugins/woocommerce/
   3. Seguridad https://www.incibe.es/protege-tu-empresa/blog/si-tienes-tienda-sigue-nuestros-consejos-protegerla
   
-##Certificado SSL
+## Certificado SSL
   1. Let's Encript https://raiolanetworks.es/blog/certificado-ssl-gratis-wordpress-lets-encrypt/
   2. https://raiolanetworks.es/blog/manual-completo-de-cpanel-para-usuarios-con-videotutoriales/#certificado_ssl_lets_encrypt_en_cpanel
   3. https://raiolanetworks.es/blog/manual-completo-de-cpanel-para-usuarios-con-videotutoriales/
