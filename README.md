@@ -127,3 +127,9 @@
   1. https://gtmetrix.com/
   2. https://developers.google.com/speed/pagespeed/insights/
 
+## Linea de comandos para WordPress
+  Si lo dominas serás una máquina. 
+  1. http://wp-cli.org/
+
+## Diseña tu propio theme o plugin
+  1. https://developer.wordpress.org/
