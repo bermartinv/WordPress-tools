@@ -130,6 +130,7 @@
 ## Linea de comandos para WordPress
   Si lo dominas serás una máquina. 
   1. http://wp-cli.org/
+  2. Guia de instalacion de wp-cli https://wpcligui.com/
 
 ## Diseña tu propio theme o plugin
   1. https://developer.wordpress.org/
