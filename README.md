@@ -2,8 +2,7 @@
 ## Averiguar información de una web
   1. BuiltWith https://builtwith.com/
   2. OnlineWebTool una mezcla de herramientas http://onlinewebtool.com/ (destaco su QR CODE GENERATOR)
-  3. WP Theme Detector, detecta el tema en que etá contruido un WP (https://www.wpthemedetector.com/)
-  4. Whats WP Theme Is That, parecido al anterior (https://www.wpthemedetector.com/)
+  3. WP Theme Detector, detecta el tema en que etá contruido un WP (https://www.wpthemedetector.com/
   
 ## Instalación WordPress
   1. Guía instalación WordPress.org (https://codex.wordpress.org/es:Instalando_Wordpress)
