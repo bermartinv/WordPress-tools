@@ -3,6 +3,7 @@
   1. BuiltWith https://builtwith.com/
   2. OnlineWebTool una mezcla de herramientas http://onlinewebtool.com/ (destaco su QR CODE GENERATOR)
   3. WP Theme Detector, detecta el tema en que etá contruido un WP (https://www.wpthemedetector.com/
+  4. Comprueba web tenga certificado SSL https://www.digicert.com/help/
   
 ## Instalación WordPress
   1. Guía instalación WordPress.org (https://codex.wordpress.org/es:Instalando_Wordpress)
