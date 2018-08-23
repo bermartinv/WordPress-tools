@@ -37,6 +37,7 @@
    3. (https://colorlib.com/wp/themes/)
    4. (https://themegrill.com/blog/free-responsive-wordpress-themes/)
    5. (https://www.codeinwp.com/blog/free-one-page-wordpress-themes/)
+   6. (https://www.webempresa.com/blog/los-10-mejores-sitios-para-descargar-themes-wordpress-gratis.html)
   ### Temas hijo
    1. Temas hijos (https://codex.wordpress.org/es:Temas_hijos)
    2. (https://www.youtube.com/watch?v=XA_AL4f9ww0)
