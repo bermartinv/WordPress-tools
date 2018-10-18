@@ -31,6 +31,7 @@
    3. https://colorlib.com/wp/
    4. https://mythemeshop.com/
    5. https://www.templatemonster.com/
+   6. https://www.studiopress.com/ (themes genesis)
   ### Free themes
    1. Wordpress.org https://es.wordpress.org/themes/browse/featured/
    2. webempresa https://www.webempresa.com/blog/los-10-mejores-sitios-para-descargar-themes-wordpress-gratis.html
@@ -47,6 +48,7 @@
    2. Visual Composer http://manuelvicedo.com/wordpress/visual-composer/
       https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431
    3. Divi https://www.elegantthemes.com/plugins/divi-builder/
+   4. Elementor https://elementor.com/
   ### Woocommerce WordPress Themes
    1. https://colorlib.com/wp/woocommerce-wordpress-themes/
   ### Diseña tu propio tema
