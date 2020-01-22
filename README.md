@@ -138,3 +138,9 @@
 
 ## Diseña tu propio theme o plugin
   1. https://developer.wordpress.org/
+  
+## Crear bloques para Gutemberg
+  1. Documentacion Gutemberg https://developer.wordpress.org/block-editor/
+  2. Ejemplo de bloque https://neliosoftware.com/es/blog/crear-primer-bloque-gutenberg/
+  3. Ejemplos de bloques https://github.com/WordPress/gutenberg-examples/
+  4. Ejemplos de bloques https://github.com/ahmadawais/Gutenberg-Boilerplate/
